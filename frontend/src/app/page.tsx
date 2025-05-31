@@ -5,7 +5,7 @@ const App = () => {
     <>
       <div className='p-6 bg-amber-400'>
         <p className='text-center color-white text-2xl'>hello</p>
-      </div>
+      </div>sss
       <div className='p-6 bg-blue-600'></div>
     </>
   )
